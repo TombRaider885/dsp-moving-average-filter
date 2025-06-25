@@ -23,7 +23,7 @@ This project implements a simple digital low-pass filter using a moving average 
 
 ## 📄 Project Report
 
-You can find the detailed project report (DSP_Filter_Project_Report_ArjunAjith.pdf).
+You can find the detailed project report [(DSP_Filter_Project_Report_ArjunAjith.pdf)](https://github.com/TombRaider885/dsp-moving-average-filter/blob/main/Low%20Pass%20Filter%20using%20Python%20Project%20Report.pdf).
 
 ## 🔍 Getting Started
 
