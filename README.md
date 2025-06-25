@@ -19,7 +19,7 @@ This project implements a simple digital low-pass filter using a moving average 
 
 ## 📈 Example Output
 
-![Graph](dsp_filtered_graph.png)https://github.com/TombRaider885/dsp-moving-average-filter/blob/main/dsp_filtered_graph.png.png
+!Graph[(dsp_filtered_graph.png)]https://github.com/TombRaider885/dsp-moving-average-filter/blob/main/dsp_filtered_graph.png.png
 
 ## 📄 Project Report
 
